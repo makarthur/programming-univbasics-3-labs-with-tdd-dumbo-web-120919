@@ -1,5 +1,5 @@
 # Code your solution in calculator.rb
-first_number = 2
+first_number == 2
 describe "./calculator.rb" do
 
 
